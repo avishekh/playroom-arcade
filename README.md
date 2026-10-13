@@ -6,6 +6,6 @@ Play: https://avishekh.github.io/playroom-arcade/
 
 ## Action Arcade (ages 9+)
 
-Six games in `action/`: Star Blaster (shooting), Meteor Blaster, Sky Pilot (flying), Robo Brawl (fighting), Block Builder (building) and Robo Code (block coding). Works with touch, mouse or keyboard. Best scores and the Block Builder world are saved in the browser.
+Eight games in `action/`: Castle Guard (tower defense), Garden Guard (lane defense), Star Blaster (shooting), Meteor Blaster, Sky Pilot (flying), Robo Brawl (fighting), Block Builder (building) and Robo Code (block coding). Works with touch, mouse or keyboard. Best scores and the Block Builder world are saved in the browser.
 
 Play: https://avishekh.github.io/playroom-arcade/action/
